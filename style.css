@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalnia+Glaze:wght@100..700&display=swap');
 
 :root{
     --branco: white;
@@ -6,8 +6,8 @@
     --fundo-senha: #000000;
     --fundo-texto: #d4d4d4;
     --borda: #e418ffb6;
-    --roboto: 'Roboto', sans-serif;
-    --roboto-mono: 'Roboto Mono', monospace;
+    --roboto: 'Kalnia Glaze', sans-serif;
+    --roboto-mono: 'Kalnia Glaze', monospace;
 }
 
 {
